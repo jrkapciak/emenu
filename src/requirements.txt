@@ -1,0 +1,12 @@
+atomicwrites==1.2.1
+attrs==18.2.0
+Django==1.11.15
+django-filter==2.0.0
+djangorestframework==3.8.2
+djangorestframework-filters==0.10.2
+more-itertools==4.3.0
+pluggy==0.7.1
+psycopg2==2.7.5
+py==1.6.0
+pytz==2018.5
+six==1.11.0
